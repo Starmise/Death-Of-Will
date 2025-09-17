@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/FirstPerson/Maps/DevTesting.umap",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/PCG/PCG_Landscape.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/Blueprints/BP_Spline.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/PCG/PCG_Spline.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/Blueprints/BP_SplineDiff.uasset",
+				"C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Content/StarterContent/Props/Materials/M_Lamp.uasset"
 			]
 		}
 	]
