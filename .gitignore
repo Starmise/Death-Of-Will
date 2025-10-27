@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Build and Cooked elements
+TheDeathOfWill/Intermediate/Build/*
+TheDeathOfWill/Saved/Cooked/*
+TheDeathOfWill/Saved/StagedBuilds/*
+TheDeathOfWill/Binaries/*
