@@ -8,12 +8,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0FB2C602602B093AA61CB6A5B6F5FD6F1123EFEF",
-			"Assets": [
-				"/Game/MoStreetProps/Materials/M_Base_Master"
-			]
-		},
-		{
 			"ShaderMapHash": "1493FF02CFD73EA9AB0712F5CF1F90C3C02A3E5E",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
@@ -58,6 +52,7 @@
 		{
 			"ShaderMapHash": "3776231350C8DF0F7B4240E97C04D2535821CEE4",
 			"Assets": [
+				"/Game/Materials/M_EmissiveColor",
 				"/Game/MoStreetProps/Materials/M_Emissive_Master"
 			]
 		},
@@ -68,9 +63,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "38DB9819B60EEAAFDE5513CDE86E1922C1717875",
+			"Assets": [
+				"/Game/Models/CamelMonster/MONSTER08MAT"
+			]
+		},
+		{
 			"ShaderMapHash": "B7AA5B1BBDF568D143E429424B6D6FD74C325F29",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "53B07222C7D91013987D5B2C8D199BFCE67A106E",
+			"Assets": [
+				"/Game/Scenes/LiminalDeathMenu",
+				"/Game/Scenes/LiminalMainMenu"
 			]
 		},
 		{
@@ -83,6 +91,12 @@
 			"ShaderMapHash": "D48FF2256D3950D8EA7E818F4B97DC1B43A25D78",
 			"Assets": [
 				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "1B0B5828FAA9FC1E48ADE86F496E6E84327131E5",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/Cover/MTL_MWAM_CoverRocks"
 			]
 		},
 		{
@@ -110,9 +124,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D880933042DA5B07D85F5A57DE1BC0FBCB64D7FE",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/Cover/MTL_MWAM_CoverSnow"
+			]
+		},
+		{
+			"ShaderMapHash": "91872232E555C683717960788F6D0869E6EEF92D",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
+			]
+		},
+		{
 			"ShaderMapHash": "7FF21F33F0B24B37F057308491E14A02AE5B4C43",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "915B7138170C713CF8CDE0132DF0556725FAE62F",
+			"Assets": [
+				"/Landmass/Landscape/BlueprintBrushes/Materials/Sprite/M_BrushSprite_01"
 			]
 		},
 		{
@@ -143,12 +175,6 @@
 			"ShaderMapHash": "03D1974758346450E99FC4CEB8AD67C75230F3F9",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "14987049D8DA80B78314C5398BE9884F26F8B21F",
-			"Assets": [
-				"/Game/FPWeapon/Materials/BaseMaterial"
 			]
 		},
 		{
@@ -218,15 +244,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "21A30B56CB14ED562C2B7D1AF1AD9CBE3B7EF71A",
+			"Assets": [
+				"/Game/Materials/PoolTiles/M_TilesC"
+			]
+		},
+		{
 			"ShaderMapHash": "41DDFC5AD4E20D99E468C74E1341021B9A13A6ED",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
 			]
 		},
 		{
+			"ShaderMapHash": "DB7E725D67158107AC481723E24E84CCF9544E50",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MWAM_AutoMaterial_MASTER"
+			]
+		},
+		{
 			"ShaderMapHash": "C7F3085E198FF082A8593D9808320B9560D787E5",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A0B4EC607A8FE5281562DAAF304D3F6A0BF008D1",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
 			]
 		},
 		{
@@ -257,13 +301,20 @@
 		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
 			"ShaderMapHash": "7A9B1E747642FCB8DCC5D93EED7DC1095EAA983A",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1728DC79A4E48FDE2B1BC16537FA75F750E02863",
+			"Assets": [
+				"/Water/Materials/PostProcessing/M_UnderWater_PostProcess_Volume"
 			]
 		},
 		{
@@ -291,9 +342,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8A8DA089A8E29CE3287EA5FCA94E789AD64B71C7",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/MASTER/MTL_MWAM_CoverFoliage_MASTER"
+			]
+		},
+		{
 			"ShaderMapHash": "7ECA128A44CA1CE9EDB0F038C44133989000D8E8",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "379180923B42F722B3882FDDE3C9FF3AF86DE34D",
+			"Assets": [
+				"/Game/Models/Sidewalk/Material"
 			]
 		},
 		{
@@ -330,6 +393,12 @@
 			"ShaderMapHash": "148BB096D5D8550F5C8801B35DD883157F4C6C87",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "A93DB796BCA5E64940064DF0AF645C59334822B4",
+			"Assets": [
+				"/Landmass/Landscape/BlueprintBrushes/Materials/Internal/BrushBounds"
 			]
 		},
 		{
@@ -407,8 +476,15 @@
 		{
 			"ShaderMapHash": "FA45B7A805BBF288EC567A9562954A898221AB59",
 			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02",
 				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "D8A409AABA4C9D9B3CD6B744D5EF7F2F91F42CF6",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
 			]
 		},
 		{
@@ -424,6 +500,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "85873EB205F796614CC9E72D3C5086500416D670",
+			"Assets": [
+				"/Game/Materials/CeilingLight/M_CeilingLight1"
+			]
+		},
+		{
 			"ShaderMapHash": "C293EEB2C0A5317D47C0205047B6FE14780C9600",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
@@ -436,21 +518,35 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CACCE2B4C9A4AA67B01588B4D010B1AEDFC80D90",
+			"Assets": [
+				"/Game/Materials/Water/M_PoolRoomsWater"
+			]
+		},
+		{
+			"ShaderMapHash": "018776B57F438B7019FF219B908633819EC60108",
+			"Assets": [
+				"/Water/Materials/WaterSurface/LODs/Water_Material_Lake_LOD"
+			]
+		},
+		{
 			"ShaderMapHash": "8D31B5B51973CF56EDD55A7126AE6CC267B4D014",
 			"Assets": [
 				"/Game/Scenes/LimininalParkingLot"
 			]
 		},
 		{
-			"ShaderMapHash": "6C687CB7F0A6B1C006AFCEBB6D10215236B3C1A6",
-			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "CB3315B8AE79D1FA8274C894109EC75444761693",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "09D668BA420D2F44572D3BA21E5ED425EA7E655E",
+			"Assets": [
+				"/Game/Models/jinxs-bullet/M_Bullet_Bulet",
+				"/Game/Models/jinxs-bullet/M_Bullet_Gilze",
+				"/Game/Models/jinxs-bullet/M_Bullet_Hiter"
 			]
 		},
 		{
@@ -490,6 +586,26 @@
 			]
 		},
 		{
+			"ShaderMapHash": "243022D0A55F876D607FD8F5B197184C8583F663",
+			"Assets": [
+				"/Game/Models/SciFiPistol/White"
+			]
+		},
+		{
+			"ShaderMapHash": "A4EE2ED0C33E5D4501C67169C9999C58889CA944",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/Plants/MTL_MWAM_PlantsGrass"
+			]
+		},
+		{
+			"ShaderMapHash": "FFC5B7D19406720B6E8B348B99925EF84C5DCAAA",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Water_Material",
+				"/Water/Materials/WaterSurface/Water_Material_Inst",
+				"/Water/Materials/WaterSurface/Water_Material_Lake"
+			]
+		},
+		{
 			"ShaderMapHash": "F1B202D393A5C72587D0C5E3AE0CCD173ED454A9",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
@@ -502,9 +618,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1161ECD31363FC3AC512F2696F1D4A56BF943D1C",
+			"Assets": [
+				"/Water/Materials/WaterInfo/DrawWaterInfo"
+			]
+		},
+		{
 			"ShaderMapHash": "CBFB51D59FA356821CA77FD1E7CE15832D00AABB",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "021117D8710D59745CC4E5AECB3365AC8537A499",
+			"Assets": [
+				"/Game/Materials/Sprites/M_WillSticker"
 			]
 		},
 		{
@@ -526,6 +654,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2C6015DFFEB8178E3C1BE9F7FCC1E7EC11731501",
+			"Assets": [
+				"/Game/MWLandscapeAutoMaterial/Materials/Landscape/MTL_MWAM_Landscape_IslandExample"
+			]
+		},
+		{
 			"ShaderMapHash": "9D5317DF00D94BD217F402F6818E16E983D7B451",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
@@ -535,6 +669,12 @@
 			"ShaderMapHash": "114FE6E0C5BAB390546D68081E82EE02F56A8C12",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "5351A9E15B48AB72DD1AAB5C92932163A5FEE503",
+			"Assets": [
+				"/Game/Models/SciFiPistol/Black_001"
 			]
 		},
 		{
@@ -574,10 +714,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1491E3E77E33272D1FAB9217B148EE0ED44BD8E8",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
 			"ShaderMapHash": "4D5A66E84F3FD1EC8AEBFA64576717C9C7A1B23C",
 			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "F00642EA2096FC0FAFBF1B543063FF636F99B985",
+			"Assets": [
+				"/Water/Materials/WaterSurface/Water_FarMesh"
 			]
 		},
 		{
@@ -587,15 +741,39 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DFDB70EB5F69998D35564346F7BEC657AF6F8B0D",
+			"Assets": [
+				"/Game/Niagara/NS_eNTITY"
+			]
+		},
+		{
+			"ShaderMapHash": "CC038BF1A563AF8C28A2708AB736E5D5B43C7350",
+			"Assets": [
+				"/Game/Scenes/LimininalPoolRoom"
+			]
+		},
+		{
 			"ShaderMapHash": "326AFFF1B14AF96A614C4C9FE33170408F7F2BD4",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
 			]
 		},
 		{
+			"ShaderMapHash": "3B634FF5C52CB136A6F0DEBF760D29AFDE9BC3C0",
+			"Assets": [
+				"/Game/MoStreetProps/Materials/M_Base_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "A81E03F6B3B7989786362B67AEB359BBCD995FBD",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
+			]
+		},
+		{
+			"ShaderMapHash": "792308F73703EB57BA055ABCC335B0A16CD24264",
+			"Assets": [
+				"/Game/Materials/CeilingLight/M_CeilingLight"
 			]
 		},
 		{
@@ -611,9 +789,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FDFA46F8DE42F2B71A53FBC40AD61950CBA9CF29",
+			"Assets": [
+				"/Game/Niagara/NS_eNTITY"
+			]
+		},
+		{
+			"ShaderMapHash": "D26DEDFAD14FC2E8AC4DD7BFED950BB6EC4600EB",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
 			"ShaderMapHash": "2EDD26FBF47B3D2A840F3F774EBB87A78953A160",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "52BC4BFB4C722895518A1FCA05168DF4FEF7FA7C",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
 			]
 		},
 		{
