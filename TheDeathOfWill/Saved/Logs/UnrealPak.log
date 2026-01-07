@@ -1,9 +1,9 @@
-﻿Log file open, 10/02/25 09:45:45
+﻿Log file open, 12/09/25 06:48:10
 LogWindows: Enabling Tpause support
 LogTrace: Initializing trace...
 LogTrace: Finished trace initialization.
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-04F0C16143F03B175B7A2E9F3E210577
+         Session CrashGUID >   UECC-Windows-5206C1894FF3CF9B53C31B8844D5690A
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogPluginManager: Mounting Engine plugin PlatformCrypto
@@ -15,7 +15,7 @@ LogInit: DeviceId=
 LogInit: Engine Version: 5.5.4-40574608+++UE5+Release-5.5
 LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
 LogInit: Net CL: 37670630
-LogInit: OS: Windows 11 (24H2) [10.0.26100.6725] (), CPU: 12th Gen Intel(R) Core(TM) i7-12650H, GPU: Intel(R) UHD Graphics
+LogInit: OS: Windows 11 (25H2) [10.0.26200.7309] (), CPU: 12th Gen Intel(R) Core(TM) i7-12650H, GPU: Intel(R) UHD Graphics
 LogInit: Compiled (64-bit): Mar  7 2025 14:59:45
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
@@ -62,7 +62,7 @@ LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
 LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
-LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.84ms
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.53ms
 LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
 LogInit: Object subsystem initialized
 LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
@@ -70,158 +70,158 @@ LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
 LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
 LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
 LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
-LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
-LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
-LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2025.10.02-15.45.45:519][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
-[2025.10.02-15.45.45:519][  0]LogInit: Computer: MSI
-[2025.10.02-15.45.45:519][  0]LogInit: User: Lu1sR
-[2025.10.02-15.45.45:519][  0]LogInit: CPU Page size=4096, Cores=10
-[2025.10.02-15.45.45:519][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2025.10.02-15.45.45:857][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
-[2025.10.02-15.45.45:857][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx) Virtual=28.2GB
-[2025.10.02-15.45.45:857][  0]LogMemory: Platform Memory Stats for WindowsEditor
-[2025.10.02-15.45.45:857][  0]LogMemory: Process Physical Memory: 61.63 MB used, 62.41 MB peak
-[2025.10.02-15.45.45:857][  0]LogMemory: Process Virtual Memory: 123.65 MB used, 123.65 MB peak
-[2025.10.02-15.45.45:857][  0]LogMemory: Physical Memory: 7896.31 MB used,  8188.86 MB free, 16085.17 MB total
-[2025.10.02-15.45.45:857][  0]LogMemory: Virtual Memory: 17673.55 MB used,  11211.62 MB free, 28885.17 MB total
-[2025.10.02-15.45.45:863][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
-[2025.10.02-15.45.45:864][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
-[2025.10.02-15.45.45:864][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2025.10.02-15.45.45:864][  0]LogInit: Using OS detected language ().
-[2025.10.02-15.45.45:864][  0]LogInit: Using OS detected locale ().
-[2025.10.02-15.45.45:866][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.10.02-15.45.45:868][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.10.02-15.45.45:868][  0]LogInit: Using OS detected language ().
-[2025.10.02-15.45.45:868][  0]LogInit: Using OS detected locale ().
-[2025.10.02-15.45.45:868][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.10.02-15.45.45:868][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.10.02-15.45.45:868][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/
-[2025.10.02-15.45.45:868][  0]LogIoStore: Display: ==================== IoStore Utils ====================
-[2025.10.02-15.45.45:868][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\Lu1sR\Documents\UnrealProjects\Death-Of-Will\TheDeathOfWill\Saved\Cooked\Windows\TheDeathOfWill\Metadata\Crypto.json'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Container signing - DISABLED
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Directory index - ENABLED
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using compression format 'Oodle'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using memory mapping alignment '16384'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using compression block size '65536'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using compression block alignment '2048'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using compression min bytes saved '1024'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using compression min percent saved '5'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using max partition size '0'
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Not using DDC for compression
-[2025.10.02-15.45.45:869][  0]LogIoStore: Display: Using command list file: 'C:\Users\Lu1sR\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt'
-[2025.10.02-15.45.45:872][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
-[2025.10.02-15.45.45:872][  0]LogIoStore: Display: Fetched 680 oplog items from Manifest in 0.00 seconds
-[2025.10.02-15.45.45:876][  0]LogIoStore: Display: Parsed 680 oplog items 0.00 seconds, 855 chunks
-[2025.10.02-15.45.45:894][  0]LogIoStore: Display: Using input asset registry: C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Saved/Cooked/Windows/TheDeathOfWill/Metadata/DevelopmentAssetRegistry.bin
-[2025.10.02-15.45.45:899][  0]LogIoStore: Display: Loaded 182 chunk hashes from AssetRegistry in 0.02 seconds, 182 hashes updated in 0.00 seconds
-[2025.10.02-15.45.45:902][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\Lu1sR\Documents\UnrealProjects\Death-Of-Will\TheDeathOfWill\Saved\Cooked\Windows'
-[2025.10.02-15.45.45:939][  0]LogIoStore: Display: Found '1536' files
-[2025.10.02-15.45.45:952][  0]LogIoStore: Display: Creating container targets...
-[2025.10.02-15.45.45:957][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
-[2025.10.02-15.45.46:008][  0]LogIoStore: Display: Parsing packages...
-[2025.10.02-15.45.46:008][  0]LogIoStore: Display: Reading package assets...
-[2025.10.02-15.45.46:036][  0]LogIoStore: Display: Packages read 673 files in 0.03 seconds, 1,236,841 total bytes, 44,158,383 bytes per second
-[2025.10.02-15.45.46:041][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
-[2025.10.02-15.45.46:059][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 362 groups (137 of them didn't need new indices), average uncompressed size 154955 bytes, min 249 bytes, max 1047981 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.10.02-15.45.46:233][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3917 shaders as 362 groups. Library size changed from 12621 KB (4.34 : 1 ratio) to 5558 KB (9.85 : 1 ratio), 44.04% of previous.
-[2025.10.02-15.45.46:320][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 544 groups (185 of them didn't need new indices), average uncompressed size 210542 bytes, min 1249 bytes, max 1045875 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.10.02-15.45.47:074][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 7586 shaders as 544 groups. Library size changed from 85609 KB (1.31 : 1 ratio) to 48203 KB (2.32 : 1 ratio), 56.31% of previous.
-[2025.10.02-15.45.47:086][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 169 groups (63 of them didn't need new indices), average uncompressed size 69374 bytes, min 325 bytes, max 965040 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.10.02-15.45.47:137][  0]LogIoStore: Display: TheDeathOfWill-PCD3D_SM5(PCD3D_SM5): Recompressed 984 shaders as 169 groups. Library size changed from 3093 KB (3.70 : 1 ratio) to 1443 KB (7.93 : 1 ratio), 46.67% of previous.
-[2025.10.02-15.45.47:152][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 193 groups (46 of them didn't need new indices), average uncompressed size 130368 bytes, min 2342 bytes, max 965889 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2025.10.02-15.45.47:320][  0]LogIoStore: Display: TheDeathOfWill-PCD3D_SM6(PCD3D_SM6): Recompressed 1960 shaders as 193 groups. Library size changed from 18728 KB (1.31 : 1 ratio) to 12557 KB (1.96 : 1 ratio), 67.05% of previous.
-[2025.10.02-15.45.47:323][  0]LogIoStore: Display: Shaders processed in 1.28 seconds
-[2025.10.02-15.45.47:324][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=8 (16 cores), MaxSourceBufferMemory=3072MiB
-[2025.10.02-15.45.47:326][  0]LogIoStore: Display: Processing redirects...
-[2025.10.02-15.45.47:326][  0]LogIoStore: Display: Creating disk layout...
-[2025.10.02-15.45.47:328][  0]LogIoStore: Display: Ordered 673 packages using fallback bundle order
-[2025.10.02-15.45.47:350][  0]LogIoStore: Display: Serializing container(s)...
-[2025.10.02-15.45.49:353][  0]LogIoStore: Display: Writing chunks 1994/2127... [724 compressed] [540 compression tasks] [Physical: 890 MiB, Virtual: 3587 MiB]
-[2025.10.02-15.45.49:916][  0]LogIoStore: Display: Writing and compressing took 2.32 seconds, writes to disk took 0.41 seconds for 320,558,464 bytes @ 780,251,918 bytes per second.
-[2025.10.02-15.45.49:916][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
-[2025.10.02-15.45.49:917][  0]LogIoStore: Display: TheDeathOfWill-Windows: Found perfect hashmap for 2126 items.
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 259,937 bytes, 40,842,983 bytes per second
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: Writing tocs... [Physical: 865 MiB, Virtual: 3512 MiB]
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: 182 / 2,127 hashes were loaded from the hash database, by type:
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     BulkData                   182
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: 855 / 2,127 chunks attempted to compress, by type:
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     ExportBundleData           673 / 673
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     BulkData                   182 / 182
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     ScriptObjects              0 / 1
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     ContainerHeader            0 / 1
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     ShaderCode                 0 / 1,266
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: Source bytes read:
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     Zen:                                  0
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     Loose File:                 639,782,225
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:         ExportBundleData        368,073,866 bytes over 1,346 reads
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:         BulkData                271,708,359 bytes over 182 reads
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:     Memory:                     139,947,482
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:         ShaderCodeLibrary         1,174,360 bytes over 8 reads
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display:         ShaderCode              138,773,122 bytes over 2,532 reads
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: Calculating stats...
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: Container Summary
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: ==================
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.63                 2.37                 2.37 -
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: TheDeathOfWill-Windows                              C/-/-/I/-            2126          253.21               503.72               303.33 (39.78% Oodle)
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: Total                                                                    2127          253.84               506.10               305.71
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
-[2025.10.02-15.45.49:923][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Compression block padding:     1.54 MiB
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Container Directory Index
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: ==========================
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Container                                          Size (KiB)
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: global                                                   0.00
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: TheDeathOfWill-Windows                                  39.52
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Container Patch Report
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: ========================
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: TheDeathOfWill-Windows                                   2126                0             2126             0.00           301.80
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: PackageStore
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: =============
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: TheDeathOfWill-Windows                                     21             673               0
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Total                                                      21             673               0
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Input:       673 Packages
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Input:      0.17 GB UExp
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Input:      0.00 GB UAsset
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Input:      0.25 GB UBulk
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Input:     52.50 MB for 906 Global shaders
-[2025.10.02-15.45.49:924][  0]LogIoStore: Display: Input:      1.47 MB for 151 Shared shaders
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Input:     12.20 MB for 209 Inline shaders
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Output:    11356 Name map entries
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Output:      805 Imported package entries
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Output:      399 Packages without imports
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Output:        0 Public runtime script objects
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: Output:     2.37 MB InitialLoadData
-[2025.10.02-15.45.49:926][  0]LogIoStore: Display: 
-[2025.10.02-15.45.49:938][  0]LogPakFile: Display: UnrealPak executed in 4.070569 seconds
-[2025.10.02-15.45.49:943][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2025.10.02-15.45.49:943][  0]LogExit: Preparing to exit.
-[2025.10.02-15.45.49:943][  0]LogExit: Object subsystem successfully closed.
-[2025.10.02-15.45.49:946][  0]LogPakFile: Destroying PakPlatformFile
-[2025.10.02-15.45.49:947][  0]LogExit: Exiting.
-[2025.10.02-15.45.49:955][  0]Log file closed, 10/02/25 09:45:49
+[2025.12.09-12.48.10:305][  0]LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+[2025.12.09-12.48.10:305][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.12.09-12.48.10:305][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.12.09-12.48.10:305][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2025.12.09-12.48.10:305][  0]LogInit: Computer: MSI
+[2025.12.09-12.48.10:305][  0]LogInit: User: Lu1sR
+[2025.12.09-12.48.10:305][  0]LogInit: CPU Page size=4096, Cores=10
+[2025.12.09-12.48.10:305][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.12.09-12.48.10:558][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2025.12.09-12.48.10:558][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx) Virtual=28.7GB
+[2025.12.09-12.48.10:558][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.12.09-12.48.10:558][  0]LogMemory: Process Physical Memory: 61.46 MB used, 62.24 MB peak
+[2025.12.09-12.48.10:558][  0]LogMemory: Process Virtual Memory: 123.75 MB used, 123.75 MB peak
+[2025.12.09-12.48.10:558][  0]LogMemory: Physical Memory: 9795.17 MB used,  6290.00 MB free, 16085.17 MB total
+[2025.12.09-12.48.10:558][  0]LogMemory: Virtual Memory: 23442.64 MB used,  5954.52 MB free, 29397.17 MB total
+[2025.12.09-12.48.10:562][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2025.12.09-12.48.10:563][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
+[2025.12.09-12.48.10:563][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.12.09-12.48.10:563][  0]LogInit: Using OS detected language ().
+[2025.12.09-12.48.10:563][  0]LogInit: Using OS detected locale ().
+[2025.12.09-12.48.10:563][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.12.09-12.48.10:565][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.12.09-12.48.10:565][  0]LogInit: Using OS detected language ().
+[2025.12.09-12.48.10:565][  0]LogInit: Using OS detected locale ().
+[2025.12.09-12.48.10:565][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.12.09-12.48.10:565][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.12.09-12.48.10:566][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/
+[2025.12.09-12.48.10:566][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.12.09-12.48.10:569][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\Lu1sR\Documents\UnrealProjects\Death-Of-Will\TheDeathOfWill\Saved\Cooked\Windows\TheDeathOfWill\Metadata\Crypto.json'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Container signing - DISABLED
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Directory index - ENABLED
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using compression block size '65536'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using max partition size '0'
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Not using DDC for compression
+[2025.12.09-12.48.10:573][  0]LogIoStore: Display: Using command list file: 'C:\Users\Lu1sR\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt'
+[2025.12.09-12.48.10:576][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2025.12.09-12.48.10:577][  0]LogIoStore: Display: Fetched 971 oplog items from Manifest in 0.00 seconds
+[2025.12.09-12.48.10:581][  0]LogIoStore: Display: Parsed 971 oplog items 0.00 seconds, 1251 chunks
+[2025.12.09-12.48.10:599][  0]LogIoStore: Display: Using input asset registry: C:/Users/Lu1sR/Documents/UnrealProjects/Death-Of-Will/TheDeathOfWill/Saved/Cooked/Windows/TheDeathOfWill/Metadata/DevelopmentAssetRegistry.bin
+[2025.12.09-12.48.10:610][  0]LogIoStore: Display: Loaded 287 chunk hashes from AssetRegistry in 0.03 seconds, 287 hashes updated in 0.00 seconds
+[2025.12.09-12.48.10:613][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\Lu1sR\Documents\UnrealProjects\Death-Of-Will\TheDeathOfWill\Saved\Cooked\Windows'
+[2025.12.09-12.48.10:654][  0]LogIoStore: Display: Found '2223' files
+[2025.12.09-12.48.10:663][  0]LogIoStore: Display: Creating container targets...
+[2025.12.09-12.48.10:669][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=4=Normal
+[2025.12.09-12.48.10:706][  0]LogIoStore: Display: Parsing packages...
+[2025.12.09-12.48.10:706][  0]LogIoStore: Display: Reading package assets...
+[2025.12.09-12.48.10:726][  0]LogIoStore: Display: Packages read 964 files in 0.02 seconds, 1,861,032 total bytes, 100,127,080 bytes per second
+[2025.12.09-12.48.10:731][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2025.12.09-12.48.10:744][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 369 groups (140 of them didn't need new indices), average uncompressed size 152190 bytes, min 249 bytes, max 1047981 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.09-12.48.10:856][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3942 shaders as 369 groups. Library size changed from 12644 KB (4.34 : 1 ratio) to 5571 KB (9.84 : 1 ratio), 44.06% of previous.
+[2025.12.09-12.48.10:894][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 551 groups (190 of them didn't need new indices), average uncompressed size 208070 bytes, min 1249 bytes, max 1045875 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.09-12.48.11:462][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 7613 shaders as 551 groups. Library size changed from 85701 KB (1.31 : 1 ratio) to 48261 KB (2.32 : 1 ratio), 56.31% of previous.
+[2025.12.09-12.48.11:469][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 207 groups (80 of them didn't need new indices), average uncompressed size 73230 bytes, min 325 bytes, max 965040 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.09-12.48.11:501][  0]LogIoStore: Display: TheDeathOfWill-PCD3D_SM5(PCD3D_SM5): Recompressed 1358 shaders as 207 groups. Library size changed from 4159 KB (3.56 : 1 ratio) to 1831 KB (8.08 : 1 ratio), 44.03% of previous.
+[2025.12.09-12.48.11:515][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 236 groups (53 of them didn't need new indices), average uncompressed size 145384 bytes, min 2201 bytes, max 1002133 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.12.09-12.48.11:656][  0]LogIoStore: Display: TheDeathOfWill-PCD3D_SM6(PCD3D_SM6): Recompressed 2732 shaders as 236 groups. Library size changed from 25625 KB (1.31 : 1 ratio) to 16332 KB (2.05 : 1 ratio), 63.73% of previous.
+[2025.12.09-12.48.11:668][  0]LogIoStore: Display: Shaders processed in 0.94 seconds
+[2025.12.09-12.48.11:668][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=8 (16 cores), MaxSourceBufferMemory=3072MiB
+[2025.12.09-12.48.11:670][  0]LogIoStore: Display: Processing redirects...
+[2025.12.09-12.48.11:670][  0]LogIoStore: Display: Creating disk layout...
+[2025.12.09-12.48.11:671][  0]LogIoStore: Display: Ordered 964 packages using fallback bundle order
+[2025.12.09-12.48.11:683][  0]LogIoStore: Display: Serializing container(s)...
+[2025.12.09-12.48.13:689][  0]LogIoStore: Display: Writing chunks 2459/2618... [1093 compressed] [1436 compression tasks] [Physical: 1345 MiB, Virtual: 3914 MiB]
+[2025.12.09-12.48.14:633][  0]LogIoStore: Display: Writing and compressing took 2.85 seconds, writes to disk took 0.75 seconds for 611,602,464 bytes @ 818,794,475 bytes per second.
+[2025.12.09-12.48.14:633][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.12.09-12.48.14:633][  0]LogIoStore: Display: TheDeathOfWill-Windows: Found perfect hashmap for 2617 items.
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 412,013 bytes, 24,081,934 bytes per second
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: Writing tocs... [Physical: 1252 MiB, Virtual: 3583 MiB]
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: 287 / 2,618 hashes were loaded from the hash database, by type:
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     BulkData                   287
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: 1,251 / 2,618 chunks attempted to compress, by type:
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     ExportBundleData           964 / 964
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     BulkData                   287 / 287
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     ShaderCode                 0 / 1,361
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: Source bytes read:
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     Zen:                                  0
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     Loose File:               1,224,754,471
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:         ExportBundleData        399,507,390 bytes over 1,928 reads
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:         BulkData                825,247,081 bytes over 287 reads
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:     Memory:                     148,720,542
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:         ShaderCodeLibrary         1,275,448 bytes over 8 reads
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display:         ShaderCode              147,445,094 bytes over 2,722 reads
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: Calculating stats...
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: Container Summary
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: ==================
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.65                 2.40                 2.40 -
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: TheDeathOfWill-Windows                              C/-/-/I/-            2617          401.71              1051.51               580.87 (44.76% Oodle)
+[2025.12.09-12.48.14:650][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Total                                                                    2618          402.36              1053.91               583.27
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Compression block padding:     1.84 MiB
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Container Directory Index
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: ==========================
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: global                                                   0.00
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: TheDeathOfWill-Windows                                  57.73
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Container Patch Report
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: ========================
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: TheDeathOfWill-Windows                                   2617                0             2617             0.00           579.03
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: PackageStore
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: =============
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: TheDeathOfWill-Windows                                     31             964               0
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Total                                                      31             964               0
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:       964 Packages
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:      0.19 GB UExp
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:      0.00 GB UAsset
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:      0.77 GB UBulk
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:     52.57 MB for 920 Global shaders
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:      4.73 MB for 188 Shared shaders
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Input:     13.00 MB for 253 Inline shaders
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Output:    14185 Name map entries
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Output:     1285 Imported package entries
+[2025.12.09-12.48.14:651][  0]LogIoStore: Display: Output:      601 Packages without imports
+[2025.12.09-12.48.14:652][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.12.09-12.48.14:652][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
+[2025.12.09-12.48.14:652][  0]LogIoStore: Display: Output:     2.40 MB InitialLoadData
+[2025.12.09-12.48.14:652][  0]LogIoStore: Display: 
+[2025.12.09-12.48.14:656][  0]LogPakFile: Display: UnrealPak executed in 4.090604 seconds
+[2025.12.09-12.48.14:664][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.12.09-12.48.14:664][  0]LogExit: Preparing to exit.
+[2025.12.09-12.48.14:665][  0]LogExit: Object subsystem successfully closed.
+[2025.12.09-12.48.14:665][  0]LogPakFile: Destroying PakPlatformFile
+[2025.12.09-12.48.14:666][  0]LogExit: Exiting.
+[2025.12.09-12.48.14:675][  0]Log file closed, 12/09/25 06:48:14
