@@ -415,6 +415,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "503F9786A40CAF20DB7434BC85C8A73C21D43DAA",
+			"Assets": [
+				"/Game/Niagara/NS_SafeZone"
+			]
+		},
+		{
 			"ShaderMapHash": "A50AD286CE1BFB3A6F7B776388FF11580C32F9BE",
 			"Assets": [
 				"/Game/MWLandscapeAutoMaterial/Materials/Landscape/MTL_MWAM_Landscape_IslandExample"

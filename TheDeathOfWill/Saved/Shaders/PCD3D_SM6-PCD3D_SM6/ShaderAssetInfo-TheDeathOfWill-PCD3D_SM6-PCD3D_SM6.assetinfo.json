@@ -130,6 +130,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "03F5E130953D0B59CF30F6EFCD318798D840277C",
+			"Assets": [
+				"/Game/Niagara/NS_SafeZone"
+			]
+		},
+		{
 			"ShaderMapHash": "91872232E555C683717960788F6D0869E6EEF92D",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Heat_Distortion"
